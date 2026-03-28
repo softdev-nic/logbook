@@ -12,8 +12,5 @@
 - Dart
 - SharedPreferences
 
-## Demo
-(Add screenshot here)
-
 ## GitHub
 https://github.com/softdev-nic/logbook
